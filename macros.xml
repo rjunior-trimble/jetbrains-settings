@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="clear">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="ReformatWithPrettierAction" />
+    </macro>
+  </component>
+</application>
