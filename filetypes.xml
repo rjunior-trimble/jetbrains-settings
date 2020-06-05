@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="example" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>
   </component>
