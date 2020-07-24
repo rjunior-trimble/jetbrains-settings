@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="3a46c1fd-df22-35b5-b18f-966bf1d26522" baseUri="https://bitbucket.trimble.tools/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.trimble.tools" port="-1" path="/" uuid="3a46c1fd-df22-35b5-b18f-966bf1d26522" />
+    </lookup>
+  </component>
+  <component name="Instance" id="f28db29e-c4cd-43fc-af9d-28584a7b481b" version="2020.1.136" />
+</application>
